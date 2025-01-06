@@ -4,7 +4,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ani946/ani946/output/github-snake.svg" />
 </picture>
 
-## Hi there 👋
+
 
 <!--
 **ani946/ani946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
