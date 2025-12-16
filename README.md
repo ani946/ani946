@@ -15,6 +15,10 @@
 |  |
 
 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:animeshpakhira700@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](link) -->
+
+
 - 🔭 Currently working as a Full-Stack Web Developer, building end-to-end web applications.
 - 🚀 Developed and maintained multiple personal and academic projects using modern web technologies.
 - 🌱 Recently working with React, JavaScript, Node.js, and Express to build full-stack applications.
