@@ -9,6 +9,11 @@
 
 ### Hi there 👋 –  I'm Animesh!
 
+|  |
+| --- 
+| I’m a Full-Stack Web Developer focused on building reliable, scalable web applications. I work across both frontend and backend, enjoy solving real-world problems, and continuously improve my skills through hands-on projects. Always learning, always building. Happy coding!
+|  |
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
