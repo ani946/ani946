@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## GitHub Stats
-![Justin's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justinhSE&theme=gruvbox)
